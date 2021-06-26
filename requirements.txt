@@ -4,6 +4,7 @@ colorama==0.4.4
 configparser==5.0.2
 crayons==0.4.0
 idna==2.10
+python-dotenv==0.18.0
 requests==2.25.1
 robotframework==4.0.3
 robotframework-pythonlibcore==2.2.1
